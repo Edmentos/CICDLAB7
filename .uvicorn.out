@@ -1,0 +1,10 @@
+INFO:     Will watch for changes in these directories: ['/workspaces/CICDLAB7']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [23145] using StatReload
+INFO:     Started server process [23160]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     86.42.87.108:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     86.42.87.108:0 - "GET /docs HTTP/1.1" 200 OK
+INFO:     86.42.87.108:0 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     86.42.87.108:0 - "POST /order HTTP/1.1" 200 OK
